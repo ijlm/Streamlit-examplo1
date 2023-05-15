@@ -61,3 +61,8 @@ jobs:
           app-name: 'streamlit-v01'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6AD7B21ACB448E0B2D30B6DA5B0DB81 }}
+#          app-command: |
+#          python -m venv venv
+#          source venv/bin/activate
+#          streamlit run main.py --server.port=80
+          
