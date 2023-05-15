@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Project:
 <br>This project is an example of Streamlit.<br><br>In this case the example is basic and is ready to be deployed in Azure.<br><br><br>For this case, configure an APP SERVICE in linux with Python 8.<br>and in run configuration add:<br>python -m streamlit run main.py --server.port 8000
 
 
