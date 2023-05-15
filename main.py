@@ -37,8 +37,6 @@ st.subheader('Map of all pickups at %s:00' % hour_to_filter)
 st.map(filtered_data)
 
 
-if __name__ == "__main__":
-    main()
 #--streamlit run main.py
 
 #def run_streamlit():    
