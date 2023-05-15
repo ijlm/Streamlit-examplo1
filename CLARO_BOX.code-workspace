@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+7b22686f73744e616d65223a22726f6f745f474341227d/data/gca_desarrollos/IVAN/CLARO_BOX"
+		},
+		{
+			"uri": "vscode-remote://ssh-remote+7b22686f73744e616d65223a22726f6f745f474341227d/root/NOTEBOOK/Ivan"
+		}
+	],
+	"remoteAuthority": "ssh-remote+7b22686f73744e616d65223a22726f6f745f474341227d",
+	"settings": {}
+}
